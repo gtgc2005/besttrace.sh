@@ -36,7 +36,7 @@ echo "Location:$loc"
 if [[ -z "$loc" || "$loc" == "CN" ]]; then
 url="https://cdn.ipip.net/17mon/besttrace4linux.zip"
 else
-url="https://raw.githubusercontent.com/haoduck.com/besttrace.sh/main/file/besttrace4linux.zip"
+url="https://raw.githubusercontent.com/gtgc2005/besttrace.sh/main/file/besttrace4linux.zip"
 fi
 mkdir -p $dir
 wget $url -O $file
