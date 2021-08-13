@@ -2,7 +2,7 @@
 
 脚本使用：  
 ```
-curl https://raw.githubusercontent.com/haoduck.com/besttrace.sh/main/besttace.sh | bash
+curl https://raw.githubusercontent.com/gtgc2005/besttrace.sh/main/besttace.sh | bash
 ```
 或
 ```
